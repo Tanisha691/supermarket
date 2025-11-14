@@ -1,7 +1,9 @@
 📌 Project Overview
+
 This project focuses on analyzing supermarket sales data to understand customer behavior, product performance, and overall business trends. Using powerful data analytics techniques, the project aims to deliver insights that help improve decision-making in areas such as inventory management, marketing strategies, and financial planning.
 
 🎯 Objectives
+
 Analyze total sales, revenue, and profit performance
 
 Identify monthly and seasonal sales trends
@@ -14,13 +16,16 @@ Analyze payment modes, gender-based trends, and branch-wise sales
 
 Build interactive dashboards for better business insights
 
-
 🛠 Tools & Technologies
+
 Power BI – for dashboard creation & visualization
+
 SQL – for querying and filtering data
+
 Excel – for preprocessing and cleaning data
 
 📊 Key Features
+
 Monthly Sales Trend Analysis
 
 Branch-wise & Category-wise Sales Breakdown
@@ -34,16 +39,29 @@ Interactive Dashboards with Filters
 Seasonality and Peak Sales Periods
 
 📂 Dataset Information
+
 Typical dataset fields include:
+
 Invoice ID
+
 Branch
+
 City
+
 Customer Type
+
 Gender
+
 Product Line
+
 Unit Price
+
 Quantity
+
 Total
+
+Tax
+
 Date & Time
 
 Payment Method
